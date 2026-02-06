@@ -99,6 +99,10 @@ visualizations.R  →  visualizations/*.png
 * `requests`
 * `beautifulsoup4`
 * `pandas`
+* R 4.5.2
+* `ggplot2`
+* `reshape2`
+* `gridExtra`
 
 
 
